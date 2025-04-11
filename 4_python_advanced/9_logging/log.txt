@@ -1,0 +1,8 @@
+INFO:root:this is info message
+WARNING:root:this is warning message
+ERROR:root:this is error message
+CRITICAL:root:this is critical message
+2025-03-19 07:39:06,604:INFO:this is info message
+2025-03-19 07:39:06,604:WARNING:this is warning message
+2025-03-19 07:39:06,604:ERROR:this is error message
+2025-03-19 07:39:06,604:CRITICAL:this is critical message

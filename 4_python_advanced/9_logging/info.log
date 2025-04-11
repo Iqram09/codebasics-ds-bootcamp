@@ -1,0 +1,13 @@
+2025-03-19 07:45:06,860 - INFO - User Iqram Patel logged in
+2025-03-19 07:45:06,860 - INFO - Data processed: good_data
+2025-03-19 07:45:06,860 - INFO - User Iqram Patel logged out
+2025-03-19 07:45:27,405 - INFO - User Iqram Patel logged in
+2025-03-19 07:45:27,405 - ERROR - Error processing data: Invalid data
+Traceback (most recent call last):
+  File "G:\programing\Code Basic DS\Python\4_python_advanced\9_logging\logging_basic_2.py", line 18, in process_data
+    raise ValueError("Invalid data")
+ValueError: Invalid data
+2025-03-19 07:45:27,405 - INFO - User Iqram Patel logged out
+2025-03-19 07:46:33,387 - INFO - User Iqram Patel logged in
+2025-03-19 07:46:33,387 - ERROR - Error processing data: Invalid data
+2025-03-19 07:46:33,387 - INFO - User Iqram Patel logged out

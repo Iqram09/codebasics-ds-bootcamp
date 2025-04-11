@@ -1,0 +1,30 @@
+{
+    "name": "Ayaan",
+    "age": 28,
+    "is_employee": true,
+    "skills": [
+        "Python",
+        "Data Science",
+        "Machine Learning",
+        "Web Development"
+    ],
+    "address": {
+        "street": "789 Oak St",
+        "city": "Metropolis"
+    },
+    "hobbies": [
+        "Chess",
+        "Reading",
+        "Gaming"
+    ],
+    "projects": [
+        {
+            "title": "AI Chatbot",
+            "year": 2023
+        },
+        {
+            "title": "Stock Market Predictor",
+            "year": 2024
+        }
+    ]
+}

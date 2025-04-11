@@ -1,0 +1,10 @@
+2025-03-19 07:49:29,607 - my_logger - DEBUG - This is a debug message
+2025-03-19 07:49:29,607 - my_logger - INFO - This is an info message
+2025-03-19 07:49:29,607 - my_logger - WARNING - This is a warning message
+2025-03-19 07:49:29,607 - my_logger - ERROR - This is an error message
+2025-03-19 07:49:29,607 - my_logger - CRITICAL - This is a critical message
+2025-03-19 07:51:02,740 - Iqram-Logger-XD - DEBUG - This is a debug message
+2025-03-19 07:51:02,740 - Iqram-Logger-XD - INFO - This is an info message
+2025-03-19 07:51:02,740 - Iqram-Logger-XD - WARNING - This is a warning message
+2025-03-19 07:51:02,740 - Iqram-Logger-XD - ERROR - This is an error message
+2025-03-19 07:51:02,740 - Iqram-Logger-XD - CRITICAL - This is a critical message
