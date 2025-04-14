@@ -16,6 +16,8 @@ app = FastAPI()
 @app.get("/expenses/{expense_date}", response_model= List[Expense])
 def get_expense(expense_date: date):
     expenses = db_helper.fetch_expense_for_date(expense_date)
+    if expenses is None:
+        raise HTTPException(status_code=404, detail="No data found")
     return expenses
 
 @app.post("/expenses/{expense_date}")
